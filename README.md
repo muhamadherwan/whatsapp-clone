@@ -16,18 +16,14 @@
 * [x] Sidebar Component
     * [x] Header.
     * [x] Header Right.
-    * [x] Header Search.
+    * [x] Search.
+* [x] Chat component
+    * [x] Header.
+    * [x] Body.
+    * [x] Footer.
 
-* [x] Sidebar Component.
-* [x] SidebarReel Component.
-* [x] Story Component.
-* [x] StoryReel Component.
-* [x] Sidebar Component.
-* [x] SidebarReel Component.
-* [x] MessegerSender Component.
-* [x] Post Component.
-* [x] Widget Component.
-* [x] Setup Firebase Firestore database.
+
+
 * [x] Deploy to Firebase hosting.
 * [x] Testing
 
