@@ -20,6 +20,7 @@ function Chat() {
     const sendMessage = (e) => {
         e.preventDefault();
         console.log(input);
+        setInput('');
     };
 
     return (
@@ -51,11 +52,18 @@ function Chat() {
                     <span className='chat__name'>
                         wan
                     </span>
-                    Hey wassup!
-                    <span className='chat__timestamp'>8:53am</span>
+                    Hey wassup! 👻
+                    <span className='chat__timestamp'>3:52am</span>
                 </p>
                 
-                <p className='chat__message'>Hey wassup!</p>
+                <p className='chat__message'>
+                    <span className='chat__name'>
+                        mat
+                    </span>
+                    Yo 🤞!
+                    <span className='chat__timestamp'>3:53am</span>
+                </p>
+                
             </div>
 
             <div className='chat__footer'>

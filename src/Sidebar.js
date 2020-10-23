@@ -8,6 +8,8 @@ import { SearchOutlined } from '@material-ui/icons';
 import SidebarChat from './SidebarChat';
 
 function Sidebar() {
+
+    //const [rooms, setRooms] = useS
     return (
         <div className='sidebar'>
             
