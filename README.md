@@ -1,6 +1,6 @@
 ### Whatsapp Clone App.
 
-### Fullstack build with React, Firebase & Material-UI, MERN.
+### Fullstack build with React, Firebase & Material-UI
 
 ### Tech used in this build:
 
